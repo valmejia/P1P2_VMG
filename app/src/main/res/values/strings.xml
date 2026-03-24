@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P1P2_VMG</string>
+    <string name="p1Titulo"> Capturando datos...</string>
+    <string name="lblp1nombre">Ingresa tu nombre</string>
+    <string name="hp1nombre">Aqui va tu nombre...</string>
+    <string name="lblbtnp1saluda">Saluda!!!</string>
+</resources>
